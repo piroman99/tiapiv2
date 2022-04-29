@@ -1,9 +1,7 @@
 # tiapiv2
-Кукбук по tinkoff invest api
-
 
 Кукбук по Tinkoff Invest APIv2 на python
-PiromanApril 29, 2022
+
 
 Небольшое начало кукбука по TI APIv2 на python - не обессудьте, много не успел.
 
