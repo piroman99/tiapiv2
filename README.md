@@ -61,7 +61,7 @@ https://github.com/Tinkoff/invest-python/blob/main/examples/main.py
 Если что , выдает аккаунты этот код 
 
 
-accounts = client.users.get_accounts()
+  accounts = client.users.get_accounts()
 
        print("\nСписок текущих аккаунтов\n")
 
