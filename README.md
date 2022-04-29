@@ -38,7 +38,7 @@ export INVEST_TOKEN='YOUR_TOKEN'
 import creds ( или как хотите назвать файл с API ключами и id )
 
 
-В файле creds
+В файле creds.py, как вы помните, в той же дире, что и наш скрипт
 
 
 account_id_1 ='2168492213'
