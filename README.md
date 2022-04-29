@@ -26,7 +26,7 @@ pip install tinkoff-investments
 
 Поехали. 
 
-Прописываем в начале программы 
+Прописываем в начале вашего скрипта токен 
 
 export INVEST_TOKEN='YOUR_TOKEN' 
 
