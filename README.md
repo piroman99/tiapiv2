@@ -39,12 +39,10 @@ import creds ( или как хотите назвать файл с API клю�
 
 
 В файле creds.py, как вы помните, в той же дире, что и наш скрипт
-
-
+```
 account_id_1 ='2168492213'
-
 token_1: str ='YOUR_TOKEN' 
-
+```
 
 Что за account_id_1 ?
 
@@ -60,8 +58,8 @@ https://github.com/Tinkoff/invest-python/blob/main/examples/main.py
 
 Если что , выдает аккаунты этот код 
 
-
-  accounts = client.users.get_accounts()
+```
+       accounts = client.users.get_accounts()
 
        print("\nСписок текущих аккаунтов\n")
 
@@ -69,7 +67,7 @@ https://github.com/Tinkoff/invest-python/blob/main/examples/main.py
 
            print("\t", account.id, account.name, account.access_level.name)
 
-
+```
 
 Итого , id получили прописали..
 
