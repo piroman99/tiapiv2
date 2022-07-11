@@ -51,7 +51,7 @@ token_1: str ='YOUR_TOKEN'
 
 Берем 
 
-https://github.com/Tinkoff/invest-python/blob/main/examples/main.py
+[https://github.com/Tinkoff/invest-python/blob/main/examples/main.py](https://github.com/Tinkoff/invest-python/blob/main/examples/client.py)
 
 скармливаем наш токен, получаем в консольку и id c расшифровкой, и лимиты.
 
