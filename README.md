@@ -50,7 +50,7 @@ token_1: str ='YOUR_TOKEN'
 
 
 Берем 
-https://github.com/Tinkoff/invest-python/blob/main/examples/client.py
+https://github.com/piroman99/tiapiv2/blob/main/main.py ( Раньше он был на тинькоф, затем они его убрали, но интернет все помнит)
 
 скармливаем наш токен, получаем в консольку и id c расшифровкой, и лимиты.
 
